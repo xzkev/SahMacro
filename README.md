@@ -1,3 +1,2 @@
-# SahMacro v0.15
-
+# SahMacro Test Phase
 Get the downloads from releases!
