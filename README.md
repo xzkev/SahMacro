@@ -1,3 +1,3 @@
-# SahMacro v0.1
+# SahMacro v0.11
 
 Get the downloads from releases!
